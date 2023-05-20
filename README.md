@@ -12,7 +12,7 @@ The optimal word-level and document-level embedding methods were selected for to
 - Word lists for data pre-processing
 - Codes for scientific evolutionary path identification
 
-## Preliminary Rreparations
+## Preliminary Preparations
 
 ### Install toolkits
 ```
